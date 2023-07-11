@@ -85,6 +85,7 @@ Where $\lambda$ is the number of eruptions per year, $\lambda=\frac{1}{79}$ in t
 p_e = 1-\mathrm{e}^{-t \lambda}
 ```
 
+my test 
 So following the 1971 eruption the probability of an eruption in the following 50 years — the period ending this year — was 0.469. After the event, the number of eruptions per year moves to $\lambda=\frac{1}{75}$ and the probability of a further eruption within the next 50 years (2022-2071) rises to 0.487 and in the next 100 years, this rises again to 0.736.
 
 ## Magma Reservoirs
